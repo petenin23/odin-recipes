@@ -1,0 +1,46 @@
+body {
+    background-color: #33475b;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aquamarine;
+}
+
+h3, p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(224, 236, 232);
+}
+
+a{
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+li {
+    /* list-style: <type> <position> <image> */
+    list-style: circle inside none;
+}
+
+li {
+    color: rgb(247, 247, 250);
+    /* Bullet Color */
+}
+
+li span {
+    color: rgb(236, 247, 236);
+    /* Text Color */
+}
+
+/*img.pequeña{
+    width: 50px;
+    height: 50px;
+  }*/
+  /*img.mediana{
+    width: 100px;
+    height: 100px;
+  }*/
+  img.grande{
+    width: 200px;
+    height: 200px;
+  }
